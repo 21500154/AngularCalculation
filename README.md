@@ -247,3 +247,4 @@ font-size: large;
 ![output](./img2.jpeg)
 
 ## Result:
+The webpage for mathematical calculation is created using angular.
